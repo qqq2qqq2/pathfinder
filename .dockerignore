@@ -15,5 +15,5 @@ crates/stark_hash_python/target/
 # direnv
 .envrc
 .env
-# pyenv
+# pyen
 .python-version
