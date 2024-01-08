@@ -16,4 +16,4 @@ crates/stark_hash_python/target/
 .envrc
 .env
 # pyen
-.python-version
+.python-version2
